@@ -1,0 +1,19 @@
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 3rem;
+  margin-bottom: 5px;
+}
+
+img {
+  width: 100px;
+  height: 500px;
+}
+
+.title {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
